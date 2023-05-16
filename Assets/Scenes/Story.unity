@@ -4333,7 +4333,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6132076, g: 0.38470098, b: 0.5751232, a: 1}
+  m_Color: {r: 0.4745098, g: 0.4509804, b: 0.6392157, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -16536,10 +16536,10 @@ MonoBehaviour:
   - waduh aku lupa ganti background jadi warna kesukaan kk, tadi si pembuat ku suruh
     aku untuk itu
   - dia gk ada liat kan, aaah wakatta
-  - "maap kk ya \U0001F600"
+  - maap kk ya
   - oh iya, aku dan pembuatku yang aku wakili mengucapkan
   - 'SELAMAT ULANG TAHUN KAK ARIFA '
-  - "SEMOGA ALLAH MEMUDAHKAN JALAN KAKAK MENUJU MIMPI MIMPI KAKAK \U0001F600"
+  - SEMOGA ALLAH MEMUDAHKAN JALAN KAKAK MENUJU MIMPI MIMPI KAKAK
   - maap kk ya, pembuat ku ni agak lain memang
   - mager nya udh apotik tutup (gk ada obat)
   - bisa bisanya dia suruh aku untuk ngucapin ke kakak, harusnya dia sendiri lah
@@ -19965,7 +19965,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -20967,8 +20967,8 @@ MonoBehaviour:
   kata:
   - kalo lah iya umur kk segitu, bayangkn betapa bahagianya pembuat aku Hahaha!,
     jujur aja kak
-  - wah, itu brrti kk udh ngelewatin umur yng kata orang orang paling berat
-  - "Masa iya 24, soalnya kk masih cantik bangetzz chuaks \U0001F923"
+  - wah, itu brrti kk udh ngelewatin umur yang kata orang orang paling berat
+  - Masa iya 24, bohong dosa
   karakter:
   - {fileID: 21300000, guid: b697d9c481d9cc04283ddfac285113fb, type: 3}
   - {fileID: 21300000, guid: 79789e97f89fa8f42935f1b5305baa56, type: 3}

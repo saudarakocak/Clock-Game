@@ -10,12 +10,16 @@ public class detectClock : MonoBehaviour
 
     private void Start()
     {
+        /// <permission cref="Ijinkan">description</permission>
         if (isLoading)
         {
             bool x = SaveSystem.LoadData().Clock;
             if (x != null)
             {
                 IsClock = x;
+            }
+            else {
+                IsClock = false;
             }
         }
     }

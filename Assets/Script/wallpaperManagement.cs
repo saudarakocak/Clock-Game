@@ -13,7 +13,7 @@ public class wallpaperManagement : MonoBehaviour
 
     private void Update()
     {
-        if (patokan <= 10)
+        if (patokan <= 15)
         {
             wallpaper.texture = imageCollection[patokan];
         }

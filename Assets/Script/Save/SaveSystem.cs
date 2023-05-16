@@ -7,7 +7,7 @@ public class SaveSystem
     //SCORE
     public static void SaveData(detectClock player)
     {
-        string path = Application.persistentDataPath + "/score.This";
+        string path = Application.persistentDataPath + "/ClockData.This";
         BinaryFormatter x = new BinaryFormatter();
         FileStream stram = new FileStream(path, FileMode.Create);
 
@@ -20,7 +20,7 @@ public class SaveSystem
     }
     public static GameData LoadData()
     {
-        string path = Application.persistentDataPath + "/score.This";
+        string path = Application.persistentDataPath + "/ClockData.This";
         if (File.Exists(path))
         {
             BinaryFormatter x = new BinaryFormatter();
